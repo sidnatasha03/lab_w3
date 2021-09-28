@@ -1,0 +1,16 @@
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).csproj.AssemblyReference.cache
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).AssemblyInfoInputs.cache
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).AssemblyInfo.cs
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).ImplicitNamespaceImports.cs
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).csproj.CoreCompileInputs.cache
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\bin\Debug\net6.0\Лаб работа (номер 3).exe
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\bin\Debug\net6.0\Лаб работа (номер 3).deps.json
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\bin\Debug\net6.0\Лаб работа (номер 3).runtimeconfig.json
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\bin\Debug\net6.0\Лаб работа (номер 3).dll
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\bin\Debug\net6.0\ref\Лаб работа (номер 3).dll
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\bin\Debug\net6.0\Лаб работа (номер 3).pdb
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).dll
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\ref\Лаб работа (номер 3).dll
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).pdb
+C:\Users\пёс\source\repos\Лаб работа (номер 3)\obj\Debug\net6.0\Лаб работа (номер 3).genruntimeconfig.cache

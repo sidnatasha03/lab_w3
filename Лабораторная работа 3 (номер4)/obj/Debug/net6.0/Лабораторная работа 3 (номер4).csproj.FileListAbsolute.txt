@@ -1,0 +1,16 @@
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\bin\Debug\net6.0\Лабораторная работа 3 (номер4).exe
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\bin\Debug\net6.0\Лабораторная работа 3 (номер4).deps.json
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\bin\Debug\net6.0\Лабораторная работа 3 (номер4).runtimeconfig.json
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\bin\Debug\net6.0\Лабораторная работа 3 (номер4).dll
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\bin\Debug\net6.0\ref\Лабораторная работа 3 (номер4).dll
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\bin\Debug\net6.0\Лабораторная работа 3 (номер4).pdb
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).csproj.AssemblyReference.cache
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).AssemblyInfoInputs.cache
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).AssemblyInfo.cs
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).ImplicitNamespaceImports.cs
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).csproj.CoreCompileInputs.cache
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).dll
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\ref\Лабораторная работа 3 (номер4).dll
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).pdb
+C:\Users\пёс\source\repos\Лабораторная работа 3 (номер4)\obj\Debug\net6.0\Лабораторная работа 3 (номер4).genruntimeconfig.cache
