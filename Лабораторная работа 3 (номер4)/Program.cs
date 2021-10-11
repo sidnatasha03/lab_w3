@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shershnev.Lab3.Exercise1
+namespace Shershnev.Lab3.Exercise4
 {
     internal class Program
     {
